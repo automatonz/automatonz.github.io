@@ -1,0 +1,8 @@
+body {
+  background: #f0daf8;
+}
+p{text-indent:100px}
+h2:hover{color:aqua;font-size:153%}
+
+p::first-letter{font-size:250%;color:green}
+p:active{color:aquamarine;background-color:azure}
